@@ -1,0 +1,869 @@
+
+Keyboard Shortcuts
+
+Keyboard shortcuts are available for common actions and site navigation.
+
+Skip to content
+Twitter
+
+    Home Home
+    Moments Moments
+    Notifications Notifications
+    Messages
+
+Search query
+
+    Profile and settings
+
+#ux #ui timothylord
+
+    Top
+    Latest
+    People
+    Photos
+    Videos
+    News
+    Broadcasts
+
+Search filters ·
+Advanced search
+Who to follow ·
+· View all
+China US Focus @ChinaUSFocus
+Dwi Ajeng @DwiAjeng85
+Find people you know
+Trends for you · Change Change trend settings
+
+    #AmazonHQ2
+    One of these 20 cities could host Amazon's second HQ
+    #ThursdayThoughts
+    75.1K Tweets
+    Richard Spencer
+    2,001 Tweets
+    Merry Christmas
+    8,074 Tweets
+    #WinnieThePoohDay
+    48.1K Tweets
+    #MusicTaughtMe
+    4,558 Tweets
+    Offset
+    Offset receives backlash over homophobic lyrics
+    #AutoMobiliD
+    #SSTS18
+    2,983 Tweets
+
+    © 2018 Twitter About Help Center Terms Privacy policy Cookies Ads info 
+
+Search results
+
+    Timothy Lord
+    ‏ @timothylord
+    22h22 hours ago
+
+Timothy Lord Retweeted Tomasz Łakomy
+
+⚛
+
+#ui #ux -- pretty important! Also: Please download the accelerator software and therefore agree to abusive, un-read terms, for even faster missile delivery. 
+
+Timothy Lord added,
+Tomasz Łakomy
+⚛
+ @tlakomy
+Actual footage of US Missle Warning System 
+Show this thread
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+3h3 hours ago
+
+Not even going to name; shame's enough. If you design a c. card entry field, please don't do almost anything this one does. Why's the CC# the shortest field? Why's the entry field so far from its label? Why's the field that needs 4 chars max the longest? #ux #ui #design #inhumane
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 11
+
+As you step backward through a chain of actions (in a word processing doc, e.g.), "undo" becomes ambiguous. (Why don't two 'undo's cancel out?) More useful'd be a narrative list of actions, which could each themselves be undone, independent of the others. #ui #ux #design #cntlZ
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 11
+
+Most companies could learn from the way Duo uses blogging. Informative, useful, not self-congratulatory, readable across a wide range of registers. #ux #ui #duosec
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 11
+
+For "Contact us!" purposes on a website, It's perfectly fine to steer users to a series of bounded text fields. But please *also* make clear the email address to which the result will go, so people can use that address directly. #ux #ui #adv101 #marketing #CustSvc
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 10
+
+If your input field (for any computer input) has a length limit for text (or data limit, such as for a photo upload), it should be easy to tell what that limit is. Character countdown, or thermometer bar, or percentage indicator--all good options. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 8
+
+For blogs with page-by-page archives (and other web pages with similar navigation): "Older" and "Newer" are far less ambiguous than "Next" and "Previous." (Previous could mean in time, or the page you were previously on, not always the same thing.) #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 5
+
+It's probably been there for a while (years? I dunno!), but I know I've until recently overlooked the "open in Incognito window" right-click option in #Chrome. Hyper-useful to reading at least certain per-month-limited paywall sites like NYT, and for testing #ux / #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 5
+
+There, now that wasn't so hard, was it? OK, I give: No, it wasn't. But it's obnoxious for a grammar checker to be on by default. (Spellchecker, a different beast entirely, IMO.) 
+
+https://support.microsoft.com/en-us/help/937422/how-to-turn-off-automatic-spelling-checking-and-automatic-grammar-chec …
+
+#ux #ui #diediedie #grammar #lousydefault
+0 replies 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+Jan 3
+
+Why should posters be able to label their own messages by priority? Because some things are "notes to self," some are actually important, most are somewhere between. If I want to read your critical ones only, I don't want FB/Twitter deciding which they are. #ui #ux #design #noise
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+28 Dec 2017
+
+Autorotation of images / #ui elements is often the right thing to do -- but not always. Please give users a "lock rotation" option, or at least make it easy to override the auto-rotate choice. (This includes typically widescreen apps; if I want portrait, I want it!) #android #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+20 Dec 2017
+
+This sounds like a joke, a small perfect storm of intention conflation: #autocorrect on my phone just interpreted the word "radical" (what I meant to write) as "reasonable." Not that they can't both be true (often are!), but very often they're near-opposites. #ux #ui #android
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+19 Dec 2017
+
+If your #GUI dialog-box based process of any kind has a "Next" / "Continue" button, it should *also* -- dagnabbit, this is not a drill -- have an easy-to-find "Go back" button (or at least a graceful "Start over").  #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+15 Dec 2017
+
+I'd prefer that "cut" (as in "CTRL-X") when used on read-only text at least act as "copy" ("CTRL-C"). Even though the text, being read-only, won't actually be cut, it should still go in the copy buffer, as least-surprising outcome. #windows #ui #ux #copypaste
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+14 Dec 2017
+
+I admit to being easily confused by computer interfaces. Still, I can't be the only one to find this message a bit muddled, can I?
+
+#ux #ui #lenovo #windows pic.twitter.com/ilCLqHWwpk
+0 replies 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+1 Dec 2017
+
+When an (actual, in-business) bank uses poor grammar online, it makes spotting online scammers marginally more difficult. #finance #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+1 Dec 2017
+
+I am not an Online Security Expert™, but I think a bank with a 14-char limit on password length should find someone who is to convince me that's a wise limit to have. Because my guess is that ... it's not. Also: all account sign-up processes suck.  #ux #ui #design #security
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+1 Dec 2017
+
+Sometimes I really do want to close all the documents related to a particular app (think #thegimp, or a word processor) *without* quitting the app, therefore requiring the whole startup magic picture show a few minutes later.  It's the future; RAM is cheap(ish). #ui #ux #software
+1 reply 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+15 Oct 2017
+
+#Linux GUIs have largely addressed this, but "Trash" (recoverable) is the best default for most users; "Delete unrecoverably" isn't. #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+15 Oct 2017
+
+New Layer dialog for #TheGIMP should include options "Make this the bottommost layer" & "Add below currently visible layers." #ux #ui #foss
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+22 Aug 2017
+
+#what3words - "explore the map" should be more front+center, w/ fun jump-to examples; addictive to explore. https://map.what3words.com/kicks.pasta.steer … #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+22 Aug 2017
+
+2 things I think are underrated / underused: #QRcodes & #What3Words ("W3W"?). (QR's not dead!) https://a16z.com/2017/08/11/qr-codes-in-china/ … #ui #ux #design
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+6 Jul 2017
+
+Find-and-replace is sometimes used for *tiny* things, like commas & missing spaces. Found items should be encircled to draw the eye! #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+23 Jun 2017
+
+For literalists like me, please vet your (G)UI's option menus for parallelism, tense, ambiguity, &c. zB: "Shut down" ! "Shutdown." #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+18 May 2017
+
+In #GUIs w/ docks, clicking on a docked icon should hide (if on top), show (if hidden), or raise (if lowered) the app. That is all. #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+18 May 2017
+
+I have an older version of #Elementaryos on that 10y-old ThinkPad now: runs nicely.  #FOSS tends toward long-term usefulness. #ux #ui #linux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+18 May 2017
+
+Glad to see this update from #Elementaryos -- Will soon try on a ThinkPad that I realize is now 10(!)y old. #ux #ui 
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+8 May 2017
+
+#gDrive search plaint: if I search for $foo, then click on a doc in results, please take me to an instance of $foo, not just the doc #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+7 Apr 2017
+
+#facebook & other forums should allow semi-anonymous replies, where a post owner knows it's you, but most ppl see only "Anonymous." #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+7 Apr 2017
+
+On my #Android #ux wishlist: an easy to activate, no-$#@-exceptions true mute for my Nexus6. Not per-app. No alarms-only override. MUTE. #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+27 Mar 2017
+
+(#GIMP plaint clarification: that means confusion for a new (or dopey!) user converting $file.pdf to $file.png,) #foss #ui #ux
+1 reply 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+25 Mar 2017
+
+To show all measure numbers in #musescore: Edit Style:Header/Footer/Numbers:☑Measure Numbers; select "Interval," set to "1." #ui #ux #foss
+0 replies 1 retweet 3 likes
+Timothy Lord
+‏ @timothylord
+21 Mar 2017
+
+To change the voice in which a note appears in #musescore: In edit mode, select notehead(s), then press Cntl+Alt+[1–4]. OK! #foss #ux #ui
+0 replies 1 retweet 3 likes
+Timothy Lord
+‏ @timothylord
+19 Mar 2017
+
+When you want common noteheads--very useful for classical guitar scores. Bookmarking for memory! #musescore https://musescore.org/en/handbook/noteheads-0 … #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+7 Feb 2017
+
+Huh! Does the default file manager (File Explorer) in #Windows10 really not have tabs? In 2017, I call that inexplicable :) #ui #ux #design
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+7 Feb 2017
+
+Windows' "Photos" viewer app (on #Win10) has dark edges which make it difficult to find/grab edges against dark b/g. #design #ux #ui #bug
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+29 Nov 2016
+
+When translating phrases/sentences, I wish #Googletranslate would provide a word-by-word explanation of its output. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+16 Jul 2016
+
+I esp. dislike needing to choose local time vs. GMT for #googlecalander; picked local for simplicity, but want both shown. #design #ux #ui
+1 reply 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+16 Jul 2016
+
+An option I'd like for anything electronic w/ a clock is to display multiple timezones; local favorite+GMT is a good start. #design #ux #ui
+0 replies 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+10 Jul 2016
+
+My data set is incomplete, I'll admit, but just want to point out that #Thunar has become my favorite file mgr. #ui #ux #linux #foss #design
+0 replies 1 retweet 2 likes
+Timothy Lord
+‏ @timothylord
+10 Jul 2016
+
+Does anyone, anywhere, actually like Wired's headline face? Bizarro; heads should be easy to read. #ux #ui #design
+0 replies 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+3 Jun 2016
+
+I used to scoff at ultra-high res phone screens; VR goggles (#googlecardboard et al) make me reconsider. #ux #mobile #optics #hardware #ui
+0 replies 1 retweet 1 like
+Timothy Lord
+‏ @timothylord
+3 Jun 2016
+
+I have discovered the next phase of unbreakable correction, and it is called #autocorrect. Cockney rhyming slang for the new now. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+3 Jun 2016
+
+Very cool #travel tool: http://rome2rio.com  Explore distances/means/costs between arbitrary pts. Commendable Google-maps based #ux / #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+20 May 2016
+
+Timothy Lord Retweeted Joe Brockmeier
+
+🤔
+
+#ux #ui I used to laugh at gaudy window decorations/animations/shadows, but it's important to know which is active! 
+
+Timothy Lord added,
+Joe Brockmeier
+🤔
+ @jzb
+I still really need a "focus follows eyeballs" setting for my desktop. Don't know how many times per day I start typing in the wrong window.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+29 Apr 2016
+
+Interesting: Suddenly my #Facebook interface is in French (huh?). Whatever button I fat-fingered to effect this, it's puzzling.  #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+29 Apr 2016
+
+Tiny print, same-color-on-same-color gripes continue. Today's example: the "Reset" button on my kitchen's electric outlets. #ui #ux #design
+0 replies 1 retweet 2 likes
+Timothy Lord
+‏ @timothylord
+22 Apr 2016
+
+Easy WiFi login #ux / #ui (and available WiFi at retail stores -- I'm on IKEA's right now) is a nice change in #commerce over the last 10y.
+0 replies 1 retweet 0 likes
+Timothy Lord
+‏ @timothylord
+22 Apr 2016
+
+Oh, fer fun's sake -- don't offer downloads that don't indicate size, or (optional, 2dary, est'd time based on speed). #ux #ui #design
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+18 Apr 2016
+
+Timothy Lord Retweeted Stelian Firez
+
+Well, it's good to have options ... (note invisible sarcasm marks). #ux #ui #holymoley #design
+
+Timothy Lord added,
+Stelian Firez
+ @stelian
+oh. my. god. 
+0 replies 0 retweets 2 likes
+Timothy Lord
+‏ @timothylord
+1 Apr 2016
+
+Timothy Lord Retweeted Jeff Field
+
+#ux / #ui / #industrialdesign are intimately linked. Everyone who does one should keep the overlap heavily in mind.
+
+Timothy Lord added,
+Jeff Field
+ @jfield
+The placement of the ambient light sensor on the iPads is awful for landscape mode.
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+30 Mar 2016
+
+#ui / #ux - Touchscreen interface designers: Don't rely on screen gestures without testing: even short-clipped nails can interfere w/ some.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+30 Mar 2016
+
+#Twitter #ux / #ui bug on lg. tablets is one that could be fixed by ignoring the usual cries to use more of the screen. Narrow'd work fine.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+25 Mar 2016
+
+Amazon's video streaming has one up on Netflix GUI, w/ 10s skip in *both* directions, not just back (though back's more important). #ux #ui
+1 reply 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+25 Mar 2016
+
+App writers: Please avoid the very edges of screens boxes, &c. Often hard to tell whether there's hidden text, among other reasons. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+21 Mar 2016
+
+Other reasons easy to imagine, but I'd like better rotation options in Android to better use a phone w/ a partly-borked digitizer ;) #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+21 Mar 2016
+
+#Android apps can be inconsistent re: rotation. Ex: VLC rotates to Horiz-up, Horiz-down, & Vert-up. But weirdly, not Vert-down. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+20 Mar 2016
+
+I like #TweetDeck; it's pretty neat. I'd like it to make finding Unicode chars easier, though, perhaps w/ a browseable pop-up panel. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+20 Mar 2016
+
+On both Chromebook Pixel & Pixel C, the LED bar is brilliant; I want to see it used for more user-signaling stuff. #design #ui #ux #PixelC
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+7 Mar 2016
+
+Turned on my Kindle to find an update's been installed. Aside from disliking autoupdate in general, the changes all seem good. #ux #ui #gui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+3 Feb 2016
+
+Needs to be done carefully (w logs noting old ones?), but "change the name of this document" should be an easy option for many docs. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+26 Jan 2016
+
+That #ElementaryOS doesn't come by default with a minimize button for windows  I think is fairly viewed as a bug. #ui #ux #linux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+26 Jan 2016
+
+Hard to pin the blame, but the space-saving non-standard #Chrome window means I have no minimize button for it on #ElementaryOS. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+9 Jan 2016
+
+#googlekeep puts its "New Note" field *just* where I always expect to search, rather than to make a new one. Should swap positions! #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+5 Jan 2016
+
+Keyboard makers: Page up / down keys should be easy to find by touch, & IMO are best at an edge of the board. #ux #ui #design
+0 replies 0 retweets 2 likes
+Timothy Lord
+‏ @timothylord
+12 Dec 2015
+
+I'd like to have an option such that docs could freely mix tables/text/images/html, but following the "new sheet" spreadsheet model. #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+13 Nov 2015
+
+Triaging phone calls to business IVRs by area code might've made sense 20y ago; now more harm than good. Looking at you, AAA & USAA. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+28 Oct 2015
+
+Instead of a blank / empty list, online searches w/ no hits should return a note that no results are found, for clarity, #ui #ux
+1 reply 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+19 Oct 2015
+
+Android voice-input's pretty neat, but non-intuitive. zB: "OK Google open $app-name" works; "OK Google close $app-name" doesn't. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+26 Sep 2015
+
+When searching for small things (semicolons, say) on-screen, result should be circled / marked extravagantly w/ highlighting. #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+20 Sep 2015
+
+#ui #ux Is everyone crazy? Are they just putting us on? An actual dialog in Lyris's software. Not April Fool's. 
+0 replies 1 retweet 3 likes
+Timothy Lord
+‏ @timothylord
+14 Sep 2015
+
+Have a product w/ physical buttons? Please locate them w/ care,  consider their sensitivity & protect them w/ bezels / collars, etc. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+12 Sep 2015
+
+Now that @Google has weirdly / rudely switched from #Googlevoice to #googlehangouts, it's much, much harder to search for messages #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+30 Aug 2015
+
+@Googlevoice multi-device-ness is great: answer on tablet, PC, whatever. BUT: don't then show the call as "unanswered" on my phone. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+29 Aug 2015
+
+I get it: "noreply@domain.com" is a fine thing for automated messages. But you really ought to give the info *to* reply if needed. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+20 Aug 2015
+
+Note: Video conferencing apps (looking at you, #googlehangouts) should always and only start w/ video camera off. #ux #ui #askingforafriend
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+20 Aug 2015
+
+#JIRA experts: Can anyone point out to me (jes' a naive user) a way to *tag* JIRA tickets? I need breadcrumbs ... #ux #ui #atlassian
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+20 Aug 2015
+
+I like the Bulwer-Lytton contest, but am sad that the page is largely broken (click around). #ux #ui #tragedy http://www.bulwer-lytton.com/lyttony.html 
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+18 Aug 2015
+
+Btw, #AAA, your awful #IVR wants a 16-digit #. The one you've sent by email is 13 digits. The one read to me by operator is 18. #ux #ui #WTF
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+10 Aug 2015
+
+I often use my phone camera for quick visual notes; these rarely need hi-res. "Downgrade res" should be 1st-class option. #android #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+24 Jul 2015
+
+Buttons that do opposite or irreconcilable things, physical or even more so on-screen, should be at least 1 fingertip width apart. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+24 Jul 2015
+
+More on Undo: "Click." < "Confirm?" < "Preview this change, then confirm." < "Preview in context." < "You may now undo this change." #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+24 Jul 2015
+
+It's a hard graph to make, but the importance of undoability is at least proportional to the severity of the action's consequences.  #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+11 Jul 2015
+
+#daydream: Seamless mouse/kb integration for Android phones, along the lines of @SynergyDev, so multi phones could be 1 workspace. #ux #ui
+1 reply 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+11 Jul 2015
+
+Multiple gmail accts can sometimes clash, but at a glance now seem to work well in Androd. Niice change since I last tried! #ux #ui #android
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+11 Jul 2015
+
+I'd like to know how to stop OS X from trying to join the wrong network; is there an "ignore this network until I say so" button? #ui #ux
+2 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+26 Jun 2015
+
+Signed up for #projectfi. Phone restriction annoys but N6's good, & I'm overdue on that. Some glitches in the signup, but non-fatal. #ux #ui
+1 reply 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+10 Jun 2015
+
+I dunno if anyone's passed a law, but I declare hereby my preference for online checkboxes being a) left & b) aligned w/ each other. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+4 Jun 2015
+
+The default photo editor included w/ Elementary OS comes with an odd default setting for cropping; why start with a square? #ui #ux #linux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+2 Jun 2015
+
+Was "Where's Waldo?" just an early stab at Web form design? Please put important changes, error flags, etc. up-front & well-labeled! #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+28 May 2015
+
+#JIRA is a pretty good bug tracker. I wish it had (can it be configured this way?) NEXT& PREVIOUS arrows for easy, linear browsing. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+27 May 2015
+
+http://www.williambharding.com/blog/technology/linux-mint-firefox-chrome-remove-obnoxious-branding/ … <-- Overall I much like #LiuxMint, but the user-hostile branded search is 1 reason I've been distro-hopping. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+27 May 2015
+
+Web designers: Please check on a variety of screens whether your huge modal dialog box is easy to interpret & pan. Thanks! #ui #ux #gah
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+23 Apr 2015
+
+#ui #macosx #ux #bug: Apple folks: why pile downloaded documents' icons on top of extant folder? Why not use the remaining desktop space?
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+20 Apr 2015
+
+#ux #ui #chrome (& other browsers): I wish new bookmarks entered / stuck on top of others, rather than at the bottom; seems more intuitive.
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+11 Apr 2015
+
+#ui #ux In #Chrome (or any browser), I'd like to be able to assign aliases to oft-visited pages, so it's [CNTRL-L], $alias, [Enter], ta-da.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+11 Apr 2015
+
+#gcal provides for reminder notices for events (good), but hamfistedly, inexplicably caps these at 4 wks out. That's a bug. #ui #ux #google
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+10 Apr 2015
+
+#ux #ui For #chrome (or any browser), I'd like to have multiple tabs open (& drag to determine width) rather than only 1 open at a time.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+4 Apr 2015
+
+#apple "Restart now" and "Tell me more details" are not $%#@# parallel options. *I'll* say when I want to restart, thanks. #ui #ux #arrogant
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+21 Mar 2015
+
+#ui #ux It is possible I want to order an airport shuttle 17 months from now, but unlikely. More sensible drop down would have current year.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+19 Mar 2015
+
+#ux #ui What would be nice is a big "Call [Uber/Lyft]" button by the inside of the front door, with an optional "speak destination" option.
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+18 Mar 2015
+
+For the 1st time in years, I've subscribed to a print magazine (#tapeop): good blend of online / offline experience. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+12 Mar 2015
+
+#ui #ux #googlemaps should, on searching for a city, pop up a few facts about it without prompt; most important, estimated distance/time.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+11 Mar 2015
+
+#facebook My MBA screen is pretty high-res, but FB's share-a-link process still requires me to scroll; it shouldn't. Resize dialog! #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+9 Mar 2015
+
+Every web site should have a "report bugs" / "report problems" link, even if it's just a mailto link. #ui #ux #design
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+28 Feb 2015
+
+#ux #ui #Android notice for #googlehangouts calls is sticky on my phone; it disappears eventually, but not by sliding it right as it should.
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+26 Feb 2015
+
+Device makers: tiny black-on-black lettering is the new illegible. You're a few focus groups shy of a kudos if you use it. #ux #ui #design
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+26 Feb 2015
+
+Device makers: if your device takes power, AC or DC, boldly label the power intake ports w/ the info a user might need, in >1 place. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+30 Jan 2015
+
+If you make a device that requires batteries, & they *can* fit in the wrong way, then you should label it, unambiguously. #idiots #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+25 Jan 2015
+
+Terrible error message, #netflix. Routine & predictable interface happenings should not be labeled "oops." #ux #ui 
+0 replies 0 retweets 2 likes
+Timothy Lord
+‏ @timothylord
+24 Jan 2015
+
+#Netflix wishlist: there should be a speed control widget, so I can watch certain shows at 10/15/25pct faster. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+23 Jan 2015
+
+#netflix #search: barely better than nothing, sometimes. Search "Canada," & find (bizarre) 3 hits - for a person named Ron Canada. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+1 Jan 2015
+
+I wonder if there are any fonts which are esp. legible when words are written vertically vs horizontally. #fonts #ui #ux #legibility #design
+0 replies 1 retweet 1 like
+Timothy Lord
+‏ @timothylord
+31 Dec 2014
+
+#Gmail needs a "protect" button for important emails (like the "lock" function for digital cameras), & a free-entry tag box. #ui #ux #risks
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+26 Dec 2014
+
+Words that my well-loved phone has just tried to substitute for "friends": "curves," "griefs," & "Saabs." Wheee ... #swype #ui #ux #android
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+25 Dec 2014
+
+#browsers should allow sloppy pasting into URL bars, incl. URLs within tags/quotes. (<a href="http ...">), to account for real life #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+23 Dec 2014
+
+#UX / #UI success:  http://pennsundayschool.com/episodes/  used to be a mess; now nicely usable, nice-looking, too. Now it's a 1st-world non-problem. #penn
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+8 Dec 2014
+
+IVR makers of the world: Please listen for certain strings of profanity & take them as your cue to redirect to human or menu. #ux #ui #amex
+0 replies 1 retweet 1 like
+Timothy Lord
+‏ @timothylord
+6 Dec 2014
+
+#GoogleVoice, in showing text history, should indicate day, not just time; if you're going to show only one of those, date ought win #ux #ui
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+5 Dec 2014
+
+#Netflix has (many, not all) good movies, but searching is abysmal. "Your search for baltimore did not have any matches." Huh? #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+1 Nov 2014
+
+#OSX bounded screenshot utility (cmd-shft-4) works poorly w/ dark starting points; corner marker should reverse for contrast. #ux #apple #ui
+0 replies 0 retweets 2 likes
+Timothy Lord
+‏ @timothylord
+31 Aug 2014
+
+All cell providers should nab ideas from gVoice. Fwd'ing, call screening, msgs by email, etc; 2 numbers, a pain but worthwhile. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+29 Aug 2014
+
+#googlemaps feature I'd like: Based on traffic, speed limits, etc, show the available-distance footprint for a given duration. #ui #ux
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+31 Jul 2014
+
+Booking through gMaps->Travelocity fails to keep selected date. Thought pilot error, but repeated/confirmed. Direct book works fine. #ux #ui
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+30 Jul 2014
+
+GPS trick (a strong word for it, I know): "1000 Main St" gets me in the right direction when I want to force a route through city X. #ui #ux
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+30 Jul 2014
+
+GPS (maybe some do?) should let you enter cities as waypoints *without* an exact address. Just "by way of city X rather than Z" #ui #ux #gps
+0 replies 0 retweets 1 like
+Timothy Lord
+‏ @timothylord
+30 Jun 2014
+
+Google usually impresses, but brain-dead approach to "insufficient storage space" when updating apps is a real whopper #ui #ux #android
+0 replies 0 retweets 0 likes
+Timothy Lord
+‏ @timothylord
+18 Apr 2014
+
+http://Mint.com  is quite cool. Tiny gripe: "budgets" page for current month should show a  "today" line, as front page does. #UX #UI
+0 replies 0 retweets 0 likes
+
+Page ready: #ux #ui timothylord - Twitter Search

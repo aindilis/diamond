@@ -1,0 +1,6 @@
+(We need to have the ability to wrap any program STDIN STDOUT.)
+
+(Diamond maintains an agent, which then the administrator connects to.)
+
+(Need to have an administrator  that allows stop (w/args), start, etc.,
+ so two ways to start an application, locally and remotely.)

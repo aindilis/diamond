@@ -1,0 +1,23 @@
+#!/usr/bin/perl -w
+
+# This  program  manager the  Diamond  system  and  all the  different
+# agents, allowing us to improve the debugging rate for this program.
+
+use Diamond;
+
+use UniLang::Agent::Agent;
+use UniLang::Util::Message;
+
+$UNIVERSAL::agent = UniLang::Agent::Agent->new
+  (Name => "Diamond-Manager",
+   ReceiveHandler => \&Receive);
+
+$UNIVERSAL::diamond = Diamond->new();
+
+sub Receive {
+  my %args = @_;
+  $UNIVERSAL::diamond->Process
+    (Message => $args{Message});
+}
+
+$UNIVERSAL::diamond->Execute();
